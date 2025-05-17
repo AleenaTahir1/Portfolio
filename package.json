@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://aleenatahir1.github.io/Portfolio",
+  "homepage": "https://aleenatahir1.github.io/Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
